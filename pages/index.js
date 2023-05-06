@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Trago" />
         <p className="description">
-          Craft Drinks <code> </code>
+         <code> </code>
         </p>
       </main>
 
