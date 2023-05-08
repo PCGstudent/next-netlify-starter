@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Trago" />
+        <img src="/Trago.jpg" alt="Trago" />
         <p className="description">
          <code> </code>
         </p>
