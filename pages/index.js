@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
 
 export default function Home() {
   return (
@@ -11,14 +9,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Trago" />
-        <img src="/Trago.jpg" alt="Trago" />
-        <p className="description">
-         <code> </code>
-        </p>
+        <img src="/minha-foto.jpg" alt="Minha foto" style={{ maxWidth: '100%', height: 'auto' }} />
       </main>
-
-      <Footer />
     </div>
   )
 }
