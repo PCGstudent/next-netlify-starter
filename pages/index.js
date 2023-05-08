@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="/minha-foto.jpg" alt="Minha foto" style={{ maxWidth: '100%', height: 'auto' }} />
+        <img src="/Trago.jpg" alt="Trago" style={{ maxWidth: '100%', height: 'auto' }} />
       </main>
     </div>
   )
